@@ -2,6 +2,7 @@
 environment:
   matrix:
     - julia_version: nightly
+    - julia_version: 1.6.2
 platform:
   - x64
 cache:
